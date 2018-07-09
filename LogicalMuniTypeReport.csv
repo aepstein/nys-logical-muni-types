@@ -1,0 +1,1282 @@
+keyMuniCode,SWISKey,MuniName,MuniType,CountyName,LogicalType
+010100000000,010000,Albany,County,Albany,County
+010201000000,010100,Albany,City,Albany,Major Urban Center
+010209000000,010300,Cohoes,City,Albany,Smaller Urban Center (Upstate)
+010260000000,011800,Watervliet,City,Albany,Smaller Urban Center (Upstate)
+010306800000,012000,Berne,Town,Albany,Rural
+010307100000,012200,Bethlehem,Town,Albany,Suburb
+010318000000,012400,Coeymans,Town,Albany,Suburb
+010318700000,012600,Colonie,Town,Albany,Suburb
+010335500000,013000,Guilderland,Town,Albany,Suburb
+010344300000,013200,Knox,Town,Albany,Rural
+010358100000,013400,New Scotland,Town,Albany,Suburb
+010370600000,013600,Rensselaerville,Town,Albany,Rural
+010389000000,013800,Westerlo,Town,Albany,Rural
+010418004140,012401,Ravena,Village,Albany,Suburb
+010418701100,012601,Colonie,Village,Albany,Suburb
+010418703040,012603,Menands,Village,Albany,Suburb
+010434502040,012801,Green Island,Village,Albany,Smaller Urban Center (Upstate)
+010435500120,013001,Altamont,Village,Albany,Suburb
+010458105090,013401,Voorheesville,Village,Albany,Suburb
+020100000000,020000,Allegany,County,Allegany,County
+020301000000,022000,Alfred,Town,Allegany,Rural
+020301400000,022600,Almond,Town,Allegany,Rural
+020302000000,022800,Amity,Town,Allegany,Rural
+020302400000,023000,Andover,Town,Allegany,Rural
+020302500000,023200,Angelica,Town,Allegany,Rural
+020306000000,023400,Belfast,Town,Allegany,Rural
+020307900000,023800,Bolivar,Town,Allegany,Rural
+020310300000,024000,Burns,Town,Allegany,Rural
+020312300000,024200,Caneadea,Town,Allegany,Rural
+020316800000,024600,Clarksville,Town,Allegany,Rural
+020321200000,024800,Cuba,Town,Allegany,Rural
+020331800000,025200,Genesee,Town,Allegany,Rural
+020340800000,025800,Hume,Town,Allegany,Rural
+020341500000,026000,Independence,Town,Allegany,Rural
+020373000000,026400,Rushford,Town,Allegany,Rural
+020375900000,026600,Scio,Town,Allegany,Rural
+020388700000,027000,Wellsville,Town,Allegany,Rural
+020391200000,027400,Willing,Town,Allegany,Rural
+020392100000,027600,Wirt,Town,Allegany,Rural
+020401000090,022001,Alfred,Village,Allegany,Smaller Urban Center (Upstate)
+020402400170,023001,Andover,Village,Allegany,Smaller Urban Center (Upstate)
+020407900490,023801,Bolivar,Village,Allegany,Smaller Urban Center (Upstate)
+020421201210,024801,Cuba,Village,Allegany,Smaller Urban Center (Upstate)
+020488705270,027001,Wellsville,Village,Allegany,Smaller Urban Center (Upstate)
+030100000000,030000,Broome,County,Broome,County
+030206000000,030200,Binghamton,City,Broome,Smaller Urban Center (Upstate)
+030305100000,032000,Barker,Town,Broome,Rural
+030307300000,032200,Binghamton,Town,Broome,Rural
+030315400000,032400,Chenango,Town,Broome,Suburb
+030318500000,032600,Colesville,Town,Broome,Rural
+030319500000,032800,Conklin,Town,Broome,Rural
+030323500000,033000,Dickinson,Town,Broome,Suburb
+030328600000,033200,Fenton,Town,Broome,Rural
+030344200000,033400,Kirkwood,Town,Broome,Suburb
+030347300000,033600,Lisle,Town,Broome,Rural
+030349900000,033800,Maine,Town,Broome,Rural
+030355800000,034000,Nanticoke,Town,Broome,Rural
+030374300000,034200,Sanford,Town,Broome,Rural
+030383300000,034400,Triangle,Town,Broome,Rural
+030384600000,034600,Union,Town,Broome,Rural
+030385500000,034800,Vestal,Town,Broome,Suburb
+030391900000,035000,Windsor,Town,Broome,Rural
+030423504030,033001,Port Dickinson,Village,Broome,Smaller Urban Center (Upstate)
+030474301290,034201,Deposit,Village,Broome,Smaller Urban Center (Upstate)
+030484601580,034601,Endicott,Village,Broome,Smaller Urban Center (Upstate)
+030484602480,034603,Johnson City,Village,Broome,Smaller Urban Center (Upstate)
+040100000000,040000,Cattaraugus,County,Cattaraugus,County
+040239000000,041200,Olean,City,Cattaraugus,Smaller Urban Center (Upstate)
+040251000000,041600,Salamanca,City,Cattaraugus,Smaller Urban Center (Upstate)
+040301100000,042000,Allegany,Town,Cattaraugus,Rural
+040303300000,042200,Ashford,Town,Cattaraugus,Rural
+040313300000,042400,Carrollton,Town,Cattaraugus,Rural
+040319400000,042800,Conewango,Town,Cattaraugus,Rural
+040322100000,043000,Dayton,Town,Cattaraugus,Rural
+040326500000,043600,Ellicottville,Town,Cattaraugus,Suburb
+040328200000,043800,Farmersville,Town,Cattaraugus,Rural
+040330200000,044000,Franklinville,Town,Cattaraugus,Rural
+040330300000,044200,Freedom,Town,Cattaraugus,Rural
+040334000000,044400,Great Valley,Town,Cattaraugus,Rural
+040339500000,044600,Hinsdale,Town,Cattaraugus,Rural
+040345800000,045200,Leon,Town,Cattaraugus,Rural
+040347600000,045400,Little Valley,Town,Cattaraugus,Rural
+040349500000,045800,Machias,Town,Cattaraugus,Rural
+040356000000,046200,Napoli,Town,Cattaraugus,Rural
+040356400000,046400,New Albion,Town,Cattaraugus,Rural
+040360800000,046600,Olean,Town,Cattaraugus,Rural
+040365200000,047000,Perrysburg,Town,Cattaraugus,Rural
+040365300000,047200,Persia,Town,Cattaraugus,Rural
+040368300000,047400,Portville,Town,Cattaraugus,Rural
+040369900000,047600,Randolph,Town,Cattaraugus,Rural
+040393100000,048400,Yorkshire,Town,Cattaraugus,Rural
+040401100100,042001,Allegany,Village,Cattaraugus,Smaller Urban Center (Upstate)
+040430201830,044001,Franklinville,Village,Cattaraugus,Smaller Urban Center (Upstate)
+040447602740,045401,Little Valley,Village,Cattaraugus,Smaller Urban Center (Upstate)
+040456400830,046401,Cattaraugus,Village,Cattaraugus,Smaller Urban Center (Upstate)
+040465301970,047201,Gowanda,Village,Cattaraugus,Smaller Urban Center (Upstate)
+040469904130,,Randolph,Village,Cattaraugus,Smaller Urban Center (Upstate)
+040493101260,048401,Delevan,Village,Cattaraugus,Smaller Urban Center (Upstate)
+050100000000,050000,Cayuga,County,Cayuga,County
+050203000000,050100,Auburn,City,Cayuga,Smaller Urban Center (Upstate)
+050303900000,052000,Aurelius,Town,Cayuga,Rural
+050310000000,052200,Brutus,Town,Cayuga,Rural
+050313700000,052400,Cato,Town,Cayuga,Rural
+050319600000,052600,Conquest,Town,Cayuga,Rural
+050328900000,052800,Fleming,Town,Cayuga,Suburb
+050332200000,053000,Genoa,Town,Cayuga,Rural
+050341800000,053200,Ira,Town,Cayuga,Rural
+050345400000,053400,Ledyard,Town,Cayuga,Rural
+050348000000,053600,Locke,Town,Cayuga,Rural
+050352300000,053800,Mentz,Town,Cayuga,Rural
+050354400000,054000,Montezuma,Town,Cayuga,Rural
+050354800000,054200,Moravia,Town,Cayuga,Rural
+050358600000,054400,Niles,Town,Cayuga,Rural
+050363100000,054600,Owasco,Town,Cayuga,Rural
+050376000000,054800,Scipio,Town,Cayuga,Rural
+050376600000,055200,Sennett,Town,Cayuga,Rural
+050379700000,055400,Springport,Town,Cayuga,Rural
+050380500000,055600,Sterling,Town,Cayuga,Rural
+050382400000,056000,Throop,Town,Cayuga,Rural
+050385200000,056200,Venice,Town,Cayuga,Rural
+050385800000,056400,Victory,Town,Cayuga,Rural
+050410005250,052201,Weedsport,Village,Cayuga,Smaller Urban Center (Upstate)
+050452304010,053801,Port Byron,Village,Cayuga,Smaller Urban Center (Upstate)
+050454803230,054201,Moravia,Village,Cayuga,Smaller Urban Center (Upstate)
+050479704970,055401,Union Springs,Village,Cayuga,Smaller Urban Center (Upstate)
+060100000000,060000,Chautauqua,County,Chautauqua,County
+060212000000,060300,Dunkirk,City,Chautauqua,Smaller Urban Center (Upstate)
+060222000000,060800,Jamestown,City,Chautauqua,Smaller Urban Center (Upstate)
+060303200000,062000,Arkwright,Town,Chautauqua,Rural
+060310400000,062200,Busti,Town,Chautauqua,Rural
+060313200000,062400,Carroll,Town,Chautauqua,Rural
+060314600000,062600,Charlotte,Town,Chautauqua,Rural
+060315000000,062800,Chautauqua,Town,Chautauqua,Rural
+060315500000,063000,Cherry Creek,Town,Chautauqua,Rural
+060317700000,063200,Clymer,Town,Chautauqua,Rural
+060324300000,063400,Dunkirk,Town,Chautauqua,Suburb
+060326300000,063600,Ellery,Town,Chautauqua,Rural
+060326400000,063800,Ellicott,Town,Chautauqua,Smaller Urban Center (Upstate)
+060326600000,064000,Ellington,Town,Chautauqua,Rural
+060332700000,064400,Gerry,Town,Chautauqua,Rural
+060337000000,064600,Hanover,Town,Chautauqua,Rural
+060337300000,064800,Harmony,Town,Chautauqua,Rural
+060343700000,065000,Kiantone,Town,Chautauqua,Rural
+060353500000,065200,Mina,Town,Chautauqua,Rural
+060359600000,065400,North Harmony,Town,Chautauqua,Rural
+060367700000,065600,Poland,Town,Chautauqua,Rural
+060367800000,065800,Pomfret,Town,Chautauqua,Rural
+060368200000,066000,Portland,Town,Chautauqua,Rural
+060371500000,066200,Ripley,Town,Chautauqua,Rural
+060377500000,066400,Sheridan,Town,Chautauqua,Rural
+060377600000,066600,Sherman,Town,Chautauqua,Rural
+060381100000,066800,Stockton,Town,Chautauqua,Rural
+060386000000,067000,Villenova,Town,Chautauqua,Rural
+060389200000,067200,Westfield,Town,Chautauqua,Rural
+060415003020,062801,Mayville,Village,Chautauqua,Smaller Urban Center (Upstate)
+060426400880,063801,Celoron,Village,Chautauqua,Smaller Urban Center (Upstate)
+060426401640,063803,Falconer,Village,Chautauqua,Smaller Urban Center (Upstate)
+060437004600,064603,Silver Creek,Village,Chautauqua,Smaller Urban Center (Upstate)
+060467801840,065801,Fredonia,Village,Chautauqua,Smaller Urban Center (Upstate)
+060468200570,066001,Brocton,Village,Chautauqua,Smaller Urban Center (Upstate)
+060489205300,067201,Westfield,Village,Chautauqua,Smaller Urban Center (Upstate)
+070100000000,070000,Chemung,County,Chemung,County
+070213000000,070400,Elmira,City,Chemung,Smaller Urban Center (Upstate)
+070303400000,072000,Ashland,Town,Chemung,Rural
+070307200000,072400,Big Flats,Town,Chemung,Suburb
+070313600000,072600,Catlin,Town,Chemung,Rural
+070315300000,072800,Chemung,Town,Chemung,Rural
+070326900000,073000,Elmira,Town,Chemung,Suburb
+070327200000,073200,Erin,Town,Chemung,Rural
+070340500000,073400,Horseheads,Town,Chemung,Rural
+070379100000,073600,Southport,Town,Chemung,Rural
+070385000000,073800,Van Etten,Town,Chemung,Rural
+070385600000,074000,Veteran,Town,Chemung,Rural
+070440501560,073001,Elmira Heights,Village,Chemung,Smaller Urban Center (Upstate)
+070440502390,073401,Horseheads,Village,Chemung,Suburb
+080100000000,080000,Chenango,County,Chenango,County
+080237000000,081100,Norwich,City,Chenango,Smaller Urban Center (Upstate)
+080300300000,082000,Afton,Town,Chenango,Rural
+080304700000,082200,Bainbridge,Town,Chenango,Rural
+080320500000,082600,Coventry,Town,Chenango,Rural
+080334300000,083000,Greene,Town,Chenango,Rural
+080335600000,083200,Guilford,Town,Chenango,Rural
+080356700000,083800,New Berlin,Town,Chenango,Rural
+080359900000,084000,North Norwich,Town,Chenango,Rural
+080360300000,084200,Norwich,Town,Chenango,Suburb
+080362800000,084400,Otselic,Town,Chenango,Rural
+080367500000,085200,Plymouth,Town,Chenango,Rural
+080377400000,085600,Sherburne,Town,Chenango,Rural
+080378100000,085800,Smithville,Town,Chenango,Rural
+080378200000,086000,Smyrna,Town,Chenango,Rural
+080404700320,082201,Bainbridge,Village,Chenango,Smaller Urban Center (Upstate)
+080434302030,083001,Greene,Village,Chenango,Smaller Urban Center (Upstate)
+080456703380,083801,New Berlin,Village,Chenango,Smaller Urban Center (Upstate)
+080463303730,084601,Oxford,Village,Chenango,Smaller Urban Center (Upstate)
+080477404550,085603,Sherburne,Village,Chenango,Smaller Urban Center (Upstate)
+090100000000,090000,Clinton,County,Clinton,County
+090244000000,091300,Plattsburgh,City,Clinton,Smaller Urban Center (Upstate)
+090301600000,092000,Altona,Town,Clinton,Rural
+090304100000,092200,Ausable,Town,Clinton,Rural
+090305900000,092400,Beekmantown,Town,Clinton,Rural
+090307500000,092600,Black Brook,Town,Clinton,Rural
+090314400000,092800,Champlain,Town,Clinton,Rural
+090315100000,093000,Chazy,Town,Clinton,Rural
+090321500000,093400,Dannemora,Town,Clinton,Rural
+090326200000,093600,Ellenburg,Town,Clinton,Rural
+090354700000,093800,Mooers,Town,Clinton,Rural
+090365500000,094000,Peru,Town,Clinton,Rural
+090367300000,094200,Plattsburgh,Town,Clinton,Suburb
+090374600000,094400,Saranac,Town,Clinton,Rural
+090375800000,094600,Schuyler Falls,Town,Clinton,Rural
+090404102500,092201,Keeseville,Village,Clinton,Smaller Urban Center (Upstate)
+090414400910,092801,Champlain,Village,Clinton,Smaller Urban Center (Upstate)
+090414404300,092803,Rouses Point,Village,Clinton,Suburb
+090421501220,093401,Dannemora,Village,Clinton,Smaller Urban Center (Upstate)
+100100000000,100000,Columbia,County,Columbia,County
+100220000000,100600,Hudson,City,Columbia,Smaller Urban Center (Upstate)
+100302200000,102000,Ancram,Town,Columbia,Rural
+100304200000,102200,Austerlitz,Town,Columbia,Rural
+100311800000,102400,Canaan,Town,Columbia,Suburb
+100314900000,102600,Chatham,Town,Columbia,Rural
+100316900000,102800,Claverack,Town,Columbia,Rural
+100317200000,103000,Clermont,Town,Columbia,Rural
+100319900000,103200,Copake,Town,Columbia,Rural
+100331300000,103400,Gallatin,Town,Columbia,Rural
+100332600000,103600,Germantown,Town,Columbia,Rural
+100332800000,103800,Ghent,Town,Columbia,Rural
+100334600000,104000,Greenport,Town,Columbia,Suburb
+100339400000,104200,Hillsdale,Town,Columbia,Rural
+100343800000,104400,Kinderhook,Town,Columbia,Rural
+100347700000,104600,Livingston,Town,Columbia,Rural
+100357700000,104800,New Lebanon,Town,Columbia,Rural
+100381000000,105000,Stockport,Town,Columbia,Rural
+100381500000,105200,Stuyvesant,Town,Columbia,Rural
+100382000000,105400,Taghkanic,Town,Columbia,Rural
+100416903890,102801,Philmont,Village,Columbia,Smaller Urban Center (Upstate)
+100432800930,102601,Chatham,Village,Columbia,Smaller Urban Center (Upstate)
+100443802530,104401,Kinderhook,Village,Columbia,Suburb
+100443805010,104403,Valatie,Village,Columbia,Suburb
+110100000000,110000,Cortland,County,Cortland,County
+110211000000,110200,Cortland,City,Cortland,Smaller Urban Center (Upstate)
+110316200000,112000,Cincinnatus,Town,Cortland,Rural
+110320400000,112200,Cortlandville,Town,Cortland,Rural
+110321300000,112400,Cuyler,Town,Cortland,Rural
+110339700000,113000,Homer,Town,Cortland,Rural
+110350800000,113400,Marathon,Town,Cortland,Rural
+110369000000,113600,Preble,Town,Cortland,Rural
+110376100000,113800,Scott,Town,Cortland,Rural
+110378400000,114000,Solon,Town,Cortland,Rural
+110383500000,114400,Truxton,Town,Cortland,Rural
+110386100000,114600,Virgil,Town,Cortland,Rural
+110390900000,114800,Willet,Town,Cortland,Rural
+110420402840,112203,McGraw,Village,Cortland,Smaller Urban Center (Upstate)
+110439702360,112201,Homer,Village,Cortland,Smaller Urban Center (Upstate)
+120100000000,120000,Delaware,County,Delaware,County
+120302300000,122000,Andes,Town,Delaware,Rural
+120318200000,122400,Colchester,Town,Delaware,Rural
+120321900000,122600,Davenport,Town,Delaware,Rural
+120322700000,122800,Delhi,Town,Delaware,Rural
+120323100000,123000,Deposit,Town,Delaware,Rural
+120336200000,123400,Hamden,Town,Delaware,Rural
+120336800000,123600,Hancock,Town,Delaware,Rural
+120337400000,123800,Harpersfield,Town,Delaware,Rural
+120344400000,124000,Kortright,Town,Delaware,Rural
+120351800000,124200,Masonville,Town,Delaware,Rural
+120352400000,124400,Meredith,Town,Delaware,Rural
+120353000000,124600,Middletown,Town,Delaware,Rural
+120372700000,124800,Roxbury,Town,Delaware,Rural
+120377700000,125000,Sidney,Town,Delaware,Rural
+120380000000,125200,Stamford,Town,Delaware,Rural
+120382900000,125400,Tompkins,Town,Delaware,Rural
+120386600000,125600,Walton,Town,Delaware,Rural
+120422701270,122801,Delhi,Village,Delaware,Smaller Urban Center (Upstate)
+120436802140,123601,Hancock,Village,Delaware,Smaller Urban Center (Upstate)
+120477704590,125001,Sidney,Village,Delaware,Smaller Urban Center (Upstate)
+120480004800,123801,Stamford,Village,Delaware,Smaller Urban Center (Upstate)
+120486605120,125601,Walton,Village,Delaware,Smaller Urban Center (Upstate)
+130100000000,130000,Dutchess,County,Dutchess,County
+130205000000,130200,Beacon,City,Dutchess,Suburb
+130246000000,131300,Poughkeepsie,City,Dutchess,Smaller Urban Center (Upstate)
+130301800000,132000,Amenia,Town,Dutchess,Rural
+130305800000,132200,Beekman,Town,Dutchess,Suburb
+130317600000,132400,Clinton,Town,Dutchess,Suburb
+130323800000,132600,Dover,Town,Dutchess,Suburb
+130324800000,132800,East Fishkill,Town,Dutchess,Suburb
+130328800000,133000,Fishkill,Town,Dutchess,Suburb
+130341400000,133200,Hyde Park,Town,Dutchess,Suburb
+130344600000,133400,La Grange,Town,Dutchess,Suburb
+130353100000,133600,Milan,Town,Dutchess,Suburb
+130359300000,133800,North East,Town,Dutchess,Rural
+130364500000,134000,Pawling,Town,Dutchess,Suburb
+130366500000,134200,Pine Plains,Town,Dutchess,Rural
+130367400000,134400,Pleasant Valley,Town,Dutchess,Suburb
+130368600000,134600,Poughkeepsie,Town,Dutchess,Suburb
+130370300000,134800,Red Hook,Town,Dutchess,Suburb
+130370700000,135000,Rhinebeck,Town,Dutchess,Suburb
+130380100000,135200,Stanford,Town,Dutchess,Rural
+130384700000,135400,Union Vale,Town,Dutchess,Suburb
+130386800000,135600,Wappinger,Town,Dutchess,Suburb
+130387400000,135800,Washington,Town,Dutchess,Suburb
+130428801690,133001,Fishkill,Village,Dutchess,Suburb
+130464503810,134001,Pawling,Village,Dutchess,Suburb
+130470304160,134801,Red Hook,Village,Dutchess,Smaller Urban Center (Upstate)
+130470304890,134803,Tivoli,Village,Dutchess,Smaller Urban Center (Upstate)
+130470704190,135001,Rhinebeck,Village,Dutchess,Suburb
+130486805140,134601,Wappingers Falls,Village,Dutchess,Smaller Urban Center (Upstate)
+130487403110,135801,Millbrook,Village,Dutchess,Suburb
+140100000000,140000,Erie,County,Erie,County
+140207000000,140200,Buffalo,City,Erie,Major Urban Center
+140225000000,140900,Lackawanna,City,Erie,Smaller Urban Center (Upstate)
+140256000000,141600,Tonawanda,City,Erie,Smaller Urban Center (Upstate)
+140300700000,142000,Alden,Town,Erie,Suburb
+140301900000,142200,Amherst,Town,Erie,Major Urban Center
+140304000000,142400,Aurora,Town,Erie,Suburb
+140308300000,142600,Boston,Town,Erie,Suburb
+140308800000,142800,Brant,Town,Erie,Suburb
+140315200000,143000,Cheektowaga,Town,Erie,Major Urban Center
+140316400000,143200,Clarence,Town,Erie,Suburb
+140318300000,143400,Colden,Town,Erie,Rural
+140318600000,143600,Collins,Town,Erie,Rural
+140319100000,143800,Concord,Town,Erie,Rural
+140325400000,144000,Eden,Town,Erie,Suburb
+140326800000,144200,Elma,Town,Erie,Suburb
+140327700000,144400,Evans,Town,Erie,Suburb
+140333700000,144600,Grand Island,Town,Erie,Suburb
+140336100000,144800,Hamburg,Town,Erie,Suburb
+140339600000,145000,Holland,Town,Erie,Rural
+140344800000,145200,Lancaster,Town,Erie,Suburb
+140351200000,145400,Marilla,Town,Erie,Suburb
+140358200000,145600,Newstead,Town,Erie,Suburb
+140359100000,145800,North Collins,Town,Erie,Rural
+140361700000,146000,Orchard Park,Town,Erie,Suburb
+140374800000,146200,Sardinia,Town,Erie,Rural
+140383000000,146400,Tonawanda,Town,Erie,Smaller Urban Center (Upstate)
+140386400000,146600,Wales,Town,Erie,Suburb
+140389700000,146800,West Seneca,Town,Erie,Suburb
+140400700060,142001,Alden,Village,Erie,Suburb
+140401905380,142201,Williamsville,Village,Erie,Suburb
+140404001400,142401,East Aurora,Village,Erie,Smaller Urban Center (Upstate)
+140415201280,143003,Depew,Village,Erie,Suburb
+140415204640,143001,Sloan,Village,Erie,Smaller Urban Center (Upstate)
+140419104790,143801,Springville,Village,Erie,Smaller Urban Center (Upstate)
+140427700190,144401,Angola,Village,Erie,Smaller Urban Center (Upstate)
+140436100460,144801,Blasdell,Village,Erie,Smaller Urban Center (Upstate)
+140436102100,144803,Hamburg,Village,Erie,Smaller Urban Center (Upstate)
+140444802600,145203,Lancaster,Village,Erie,Smaller Urban Center (Upstate)
+140458200040,145601,Akron,Village,Erie,Smaller Urban Center (Upstate)
+140459103460,145801,North Collins,Village,Erie,Smaller Urban Center (Upstate)
+140461703650,146001,Orchard Park,Village,Erie,Suburb
+140483002510,146401,Kenmore,Village,Erie,Smaller Urban Center (Upstate)
+150100000000,150000,Essex,County,Essex,County
+150315900000,152000,Chesterfield,Town,Essex,Rural
+150321100000,152200,Crown Point,Town,Essex,Rural
+150326000000,152400,Elizabethtown,Town,Essex,Rural
+150342700000,152800,Jay,Town,Essex,Rural
+150343400000,153000,Keene,Town,Essex,Rural
+150346100000,153200,Lewis,Town,Essex,Rural
+150355100000,153600,Moriah,Town,Essex,Rural
+150359400000,154000,North Elba,Town,Essex,Rural
+150373500000,154400,St. Armand,Town,Essex,Rural
+150375600000,154600,Schroon,Town,Essex,Rural
+150382700000,154800,Ticonderoga,Town,Essex,Rural
+150389600000,155000,Westport,Town,Essex,Rural
+150391300000,155200,Willsboro,Town,Essex,Rural
+150391400000,155400,Wilmington,Town,Essex,Rural
+150455104040,153601,Port Henry,Village,,Smaller Urban Center (Upstate)
+150459402570,154001,Lake Placid,Village,,Smaller Urban Center (Upstate)
+160100000000,160000,Franklin,County,Franklin,County
+160305000000,162200,Bangor,Town,Franklin,Rural
+160306100000,162400,Bellmont,Town,Franklin,Rural
+160308100000,162600,Bombay,Town,Franklin,Rural
+160309100000,163000,Brighton,Town,Franklin,Rural
+160310100000,163200,Burke,Town,Franklin,Rural
+160314800000,163400,Chateaugay,Town,Franklin,Rural
+160319700000,163600,Constable,Town,Franklin,Rural
+160329600000,164200,Fort Covington,Town,Franklin,Rural
+160330100000,164400,Franklin,Town,Franklin,Rural
+160337500000,164600,Harrietstown,Town,Franklin,Rural
+160350000000,164800,Malone,Town,Franklin,Rural
+160354100000,165000,Moira,Town,Franklin,Rural
+160387900000,165400,Waverly,Town,Franklin,Rural
+160390100000,165600,Westville,Town,Franklin,Rural
+160401504940,162001,Tupper Lake,Village,,Smaller Urban Center (Upstate)
+160437504410,154003,Saranac Lake,Village,,Smaller Urban Center (Upstate)
+160450002870,164801,Malone,Village,,Smaller Urban Center (Upstate)
+170100000000,170000,Fulton,County,Fulton,County
+170218000000,170500,Gloversville,City,,Smaller Urban Center (Upstate)
+170223000000,170800,Johnstown,City,,Smaller Urban Center (Upstate)
+170309400000,172200,Broadalbin,Town,Fulton,Rural
+170313000000,172400,Caroga,Town,Fulton,Rural
+170327100000,172600,Ephratah,Town,Fulton,Rural
+170343200000,172800,Johnstown,Town,Fulton,Rural
+170352000000,173000,Mayfield,Town,Fulton,Rural
+170358900000,173200,Northampton,Town,Fulton,Rural
+170361300000,173400,Oppenheim,Town,Fulton,Rural
+170365400000,173600,Perth,Town,Fulton,Rural
+170409400550,172201,Broadalbin,Village,,Smaller Urban Center (Upstate)
+170458903540,173201,Northville,Village,,Smaller Urban Center (Upstate)
+180100000000,180000,Genesee,County,Genesee,County
+180204000000,180200,Batavia,City,,Smaller Urban Center (Upstate)
+180300400000,182000,Alabama,Town,Genesee,Rural
+180300800000,182200,Alexander,Town,Genesee,Rural
+180305500000,182400,Batavia,Town,Genesee,Rural
+180306500000,182600,Bergen,Town,Genesee,Rural
+180306900000,182800,Bethany,Town,Genesee,Rural
+180310700000,183000,Byron,Town,Genesee,Rural
+180321800000,183200,Darien,Town,Genesee,Rural
+180325800000,183400,Elba,Town,Genesee,Rural
+180346000000,183600,Le Roy,Town,Genesee,Rural
+180360500000,183800,Oakfield,Town,Genesee,Rural
+180364400000,184000,Pavilion,Town,Genesee,Rural
+180364700000,184200,Pembroke,Town,Genesee,Rural
+180379900000,184400,Stafford,Town,Genesee,Rural
+180406500440,182601,Bergen,Village,,Smaller Urban Center (Upstate)
+180446002670,183601,Le Roy,Village,,Smaller Urban Center (Upstate)
+180460503580,183801,Oakfield,Village,,Smaller Urban Center (Upstate)
+190100000000,190000,Greene,County,Greene,County
+190303600000,192200,Athens,Town,Greene,Rural
+190310800000,192400,Cairo,Town,Greene,Rural
+190313900000,192600,Catskill,Town,Greene,Rural
+190320800000,192800,Coxsackie,Town,Greene,Rural
+190324400000,193000,Durham,Town,Greene,Rural
+190334700000,193200,Greenville,Town,Greene,Rural
+190341000000,193600,Hunter,Town,Greene,Rural
+190356600000,194200,New Baltimore,Town,Greene,Rural
+190391800000,194600,Windham,Town,Greene,Suburb
+190403600260,192201,Athens,Village,,Smaller Urban Center (Upstate)
+190413900820,192601,Catskill,Village,,Smaller Urban Center (Upstate)
+190420801180,192801,Coxsackie,Village,,Smaller Urban Center (Upstate)
+200100000000,200000,Hamilton,County,Hamilton,County
+200341600000,202600,Indian Lake,Town,Hamilton,Rural
+210100000000,210000,Herkimer,County,Herkimer,County
+210226000000,210900,Little Falls,City,,Smaller Urban Center (Upstate)
+210318900000,212000,Columbia,Town,Herkimer,Rural
+210321700000,212200,Danube,Town,Herkimer,Rural
+210328000000,212400,Fairfield,Town,Herkimer,Rural
+210329900000,212600,Frankfort,Town,Herkimer,Rural
+210332500000,212800,German Flatts,Town,Herkimer,Rural
+210338900000,213000,Herkimer,Town,Herkimer,Rural
+210347400000,213200,Litchfield,Town,Herkimer,Rural
+210347500000,213400,Little Falls,Town,Herkimer,Rural
+210350500000,213600,Manheim,Town,Herkimer,Rural
+210358000000,213800,Newport,Town,Herkimer,Rural
+210373200000,214400,Russia,Town,Herkimer,Rural
+210374000000,214600,Salisbury,Town,Herkimer,Rural
+210375700000,214800,Schuyler,Town,Herkimer,Rural
+210387000000,215200,Warren,Town,Herkimer,Rural
+210388400000,215400,Webb,Town,Herkimer,Rural
+210392000000,215600,Winfield,Town,Herkimer,Rural
+210429901810,212601,Frankfort,Village,,Smaller Urban Center (Upstate)
+210432502430,212801,Ilion,Village,,Smaller Urban Center (Upstate)
+210432503170,212803,Mohawk,Village,,Smaller Urban Center (Upstate)
+210438902220,213001,Herkimer,Village,,Smaller Urban Center (Upstate)
+210450501340,173401,Dolgeville,Village,,Smaller Urban Center (Upstate)
+220100000000,220000,Jefferson,County,Jefferson,County
+220259000000,221800,Watertown,City,,Smaller Urban Center (Upstate)
+220300100000,222000,Adams,Town,Jefferson,Rural
+220300900000,222200,Alexandria,Town,Jefferson,Rural
+220302700000,222400,Antwerp,Town,Jefferson,Rural
+220309800000,222600,Brownville,Town,Jefferson,Rural
+220312600000,222800,Cape Vincent,Town,Jefferson,Rural
+220314300000,223000,Champion,Town,Jefferson,Rural
+220317100000,223200,Clayton,Town,Jefferson,Rural
+220326700000,223400,Ellisburg,Town,Jefferson,Rural
+220338700000,223600,Henderson,Town,Jefferson,Rural
+220340600000,223800,Hounsfield,Town,Jefferson,Rural
+220345900000,224000,Le Ray,Town,Jefferson,Rural
+220348900000,224400,Lyme,Town,Jefferson,Rural
+220361800000,224600,Orleans,Town,Jefferson,Rural
+220363800000,224800,Pamelia,Town,Jefferson,Rural
+220365900000,225000,Philadelphia,Town,Jefferson,Rural
+220371900000,225200,Rodman,Town,Jefferson,Rural
+220373300000,225400,Rutland,Town,Jefferson,Rural
+220382200000,225600,Theresa,Town,Jefferson,Rural
+220387700000,225800,Watertown,Town,Jefferson,Suburb
+220391500000,226000,Wilna,Town,Jefferson,Rural
+220400100010,222001,Adams,Village,,Smaller Urban Center (Upstate)
+220400900080,222201,Alexandria Bay,Village,,Smaller Urban Center (Upstate)
+220409800600,222601,Brownville,Village,,Smaller Urban Center (Upstate)
+220409801320,222603,Dexter,Village,,Smaller Urban Center (Upstate)
+220414305290,223001,West Carthage,Village,,Smaller Urban Center (Upstate)
+220417101000,223201,Clayton,Village,,Smaller Urban Center (Upstate)
+220440604330,223801,Sackets Harbor,Village,,Smaller Urban Center (Upstate)
+220465903880,225001,Philadelphia,Village,,Smaller Urban Center (Upstate)
+220473300450,224001,Black River,Village,,Smaller Urban Center (Upstate)
+220491500760,226001,Carthage,Village,,Smaller Urban Center (Upstate)
+230100000000,230000,Lewis,County,Lewis,County
+230321000000,232000,Croghan,Town,Lewis,Rural
+230322800000,232200,Denmark,Town,Lewis,Rural
+230323400000,232400,Diana,Town,Lewis,Rural
+230335100000,232600,Greig,Town,Lewis,Rural
+230346600000,233400,Leyden,Town,Lewis,Rural
+230348600000,233600,Lowville,Town,Lewis,Rural
+230349200000,233800,Lyonsdale,Town,Lewis,Rural
+230351600000,234000,Martinsburg,Town,Lewis,Rural
+230356800000,234400,New Bremen,Town,Lewis,Rural
+230387800000,235200,Watson,Town,Lewis,Rural
+230389900000,235400,West Turin,Town,Lewis,Rural
+230448602790,233601,Lowville,Village,,Smaller Urban Center (Upstate)
+240100000000,240000,Livingston,County,Livingston,County
+240304500000,242000,Avon,Town,Livingston,Rural
+240311000000,242200,Caledonia,Town,Livingston,Rural
+240319200000,242400,Conesus,Town,Livingston,Rural
+240332000000,242600,Geneseo,Town,Livingston,Rural
+240335400000,242800,Groveland,Town,Livingston,Rural
+240345600000,243000,Leicester,Town,Livingston,Rural
+240346800000,243200,Lima,Town,Livingston,Rural
+240347800000,243400,Livonia,Town,Livingston,Rural
+240355500000,243600,Mount Morris,Town,Livingston,Rural
+240359200000,243800,North Dansville,Town,Livingston,Rural
+240360400000,244000,Nunda,Town,Livingston,Rural
+240379400000,244600,Sparta,Town,Livingston,Rural
+240379800000,244800,Springwater,Town,Livingston,Rural
+240389800000,245000,West Sparta,Town,Livingston,Rural
+240393000000,245200,York,Town,Livingston,Rural
+240404500300,242001,Avon,Village,,Smaller Urban Center (Upstate)
+240411000650,242201,Caledonia,Village,,Smaller Urban Center (Upstate)
+240432001920,242601,Geneseo,Village,,Smaller Urban Center (Upstate)
+240446802700,243201,Lima,Village,,Suburb
+240447802760,243401,Livonia,Village,,Rural
+240455503280,243601,Mount Morris,Village,,Smaller Urban Center (Upstate)
+240459201230,243801,Dansville,Village,,Smaller Urban Center (Upstate)
+240460403560,244001,Nunda,Village,,Smaller Urban Center (Upstate)
+250100000000,250000,Madison,County,Madison,County
+250240000000,251200,Oneida,City,,Smaller Urban Center (Upstate)
+250309500000,252000,Brookfield,Town,Madison,Rural
+250314100000,252200,Cazenovia,Town,Madison,Rural
+250323200000,252400,De Ruyter,Town,Madison,Rural
+250325300000,252600,Eaton,Town,Madison,Rural
+250328500000,252800,Fenner,Town,Madison,Rural
+250345300000,253400,Lebanon,Town,Madison,Rural
+250345700000,253600,Lenox,Town,Madison,Rural
+250347000000,253800,Lincoln,Town,Madison,Rural
+250349700000,254000,Madison,Town,Madison,Rural
+250356200000,254200,Nelson,Town,Madison,Rural
+250377900000,254400,Smithfield,Town,Madison,Rural
+250380800000,254600,Stockbridge,Town,Madison,Rural
+250381600000,254800,Sullivan,Town,Madison,Rural
+250414100860,252201,Cazenovia,Village,,Smaller Urban Center (Upstate)
+250425303260,252601,Morrisville,Village,,Smaller Urban Center (Upstate)
+250436302110,253203,Hamilton,Village,,Smaller Urban Center (Upstate)
+250445700710,253601,Canastota,Village,,Smaller Urban Center (Upstate)
+250481600980,254801,Chittenango,Village,,Suburb
+260100000000,260000,Monroe,County,Monroe,County
+260309200000,262000,Brighton,Town,Monroe,Suburb
+260316000000,262200,Chili,Town,Monroe,Suburb
+260316600000,262400,Clarkson,Town,Monroe,Suburb
+260331600000,262600,Gates,Town,Monroe,Suburb
+260334100000,262800,Greece,Town,Monroe,Suburb
+260336400000,263000,Hamlin,Town,Monroe,Rural
+260338800000,263200,Henrietta,Town,Monroe,Suburb
+260341900000,263400,Irondequoit,Town,Monroe,Suburb
+260352200000,263600,Mendon,Town,Monroe,Suburb
+260360600000,263800,Ogden,Town,Monroe,Suburb
+260364200000,264000,Parma,Town,Monroe,Suburb
+260364900000,264200,Penfield,Town,Monroe,Suburb
+260365000000,264400,Perinton,Town,Monroe,Suburb
+260366900000,264600,Pittsford,Town,Monroe,Suburb
+260371400000,264800,Riga,Town,Monroe,Suburb
+260372900000,265000,Rush,Town,Monroe,Suburb
+260381900000,265200,Sweden,Town,Monroe,Rural
+260388500000,265400,Webster,Town,Monroe,Suburb
+260390400000,265600,Wheatland,Town,Monroe,Suburb
+260425251450,265801,East Rochester,Village,,Smaller Urban Center (Upstate)
+260452202370,263601,Honeoye Falls,Village,,Suburb
+260460604770,263801,Spencerport,Village,,Suburb
+260464202310,264001,Hilton,Village,,Suburb
+260465001630,264403,Fairport,Village,,Suburb
+260466903940,264601,Pittsford,Village,,Suburb
+260471400990,264801,Churchville,Village,,Suburb
+260481900560,265201,Brockport,Village,,Smaller Urban Center (Upstate)
+260488505240,265401,Webster,Village,,Suburb
+260490404510,265601,Scottsville,Village,,Suburb
+270100000000,270000,Montgomery,County,Montgomery,County
+270202000000,270100,Amsterdam,City,,Smaller Urban Center (Upstate)
+270302100000,272000,Amsterdam,Town,Montgomery,Suburb
+270312000000,272200,Canajoharie,Town,Montgomery,Rural
+270314500000,272400,Charleston,Town,Montgomery,Rural
+270329100000,272600,Florida,Town,Montgomery,Rural
+270333000000,272800,Glen,Town,Montgomery,Rural
+270353600000,273000,Minden,Town,Montgomery,Rural
+270354000000,273200,Mohawk,Town,Montgomery,Rural
+270363500000,273400,Palatine,Town,Montgomery,Rural
+270372100000,273600,Root,Town,Montgomery,Rural
+270373600000,273800,St. Johnsville,Town,Montgomery,Rural
+270402102090,272003,Hagaman,Village,,Rural
+270412000690,272203,Canajoharie,Village,,Smaller Urban Center (Upstate)
+270453601800,272205,Fort Plain,Village,,Smaller Urban Center (Upstate)
+270473604360,273801,St. Johnsville,Village,,Smaller Urban Center (Upstate)
+280100000000,280000,Nassau,County,Nassau,County
+280216000000,280500,Glen Cove,City,,Smaller Urban Center (Downstate)
+280228000000,280900,Long Beach,City,,Smaller Urban Center (Downstate)
+280338600000,282000,Hempstead,Town,Nassau,Major Urban Center
+280359700000,282200,North Hempstead,Town,Nassau,Major Urban Center
+280363400000,282400,Oyster Bay,Town,Nassau,Major Urban Center
+280438600265,282043,Atlantic Beach,Village,,Smaller Urban Center (Downstate)
+280438600390,282001,Bellerose,Village,,Smaller Urban Center (Downstate)
+280438600870,282003,Cedarhurst,Village,,Smaller Urban Center (Downstate)
+280438601460,282005,East Rockaway,Village,,Smaller Urban Center (Downstate)
+280438601710,282007,Floral Park,Village,,Smaller Urban Center (Downstate)
+280438601850,282009,Freeport,Village,,Smaller Urban Center (Downstate)
+280438601910,282011,Garden City,Village,,Smaller Urban Center (Downstate)
+280438602210,282013,Hempstead,Village,,Smaller Urban Center (Downstate)
+280438602270,282017,Hewlett Harbor,Village,,Smaller Urban Center (Downstate)
+280438602460,282021,Island Park,Village,,Smaller Urban Center (Downstate)
+280438602650,282023,Lawrence,Village,,Smaller Urban Center (Downstate)
+280438602800,282025,Lynbrook,Village,,Smaller Urban Center (Downstate)
+280438602880,282027,Malverne,Village,,Smaller Urban Center (Downstate)
+280438604250,282029,Rockville Centre,Village,,Smaller Urban Center (Downstate)
+280438604720,282031,South Floral Park,Village,,Smaller Urban Center (Downstate)
+280438604810,282033,Stewart Manor,Village,,Smaller Urban Center (Downstate)
+280438605030,282035,Valley Stream,Village,,Smaller Urban Center (Downstate)
+280459700370,282201,Baxter Estates,Village,,Smaller Urban Center (Downstate)
+280459701430,282203,East Hills,Village,,Smaller Urban Center (Downstate)
+280459701480,282205,East Williston,Village,,Smaller Urban Center (Downstate)
+280459701730,282207,Flower Hill,Village,,Smaller Urban Center (Downstate)
+280459702000,282209,Great Neck,Village,,Smaller Urban Center (Downstate)
+280459702010,282211,Great Neck Estates,Village,,Smaller Urban Center (Downstate)
+280459702020,282213,Great Neck Plaza,Village,,Smaller Urban Center (Downstate)
+280459702520,282215,Kensington,Village,,Smaller Urban Center (Downstate)
+280459702580,282219,Lake Success,Village,,Smaller Urban Center (Downstate)
+280459702930,282221,Manorhaven,Village,,Smaller Urban Center (Downstate)
+280459703150,282039,Mineola,Village,,Smaller Urban Center (Downstate)
+280459703300,282225,Munsey Park,Village,,Smaller Urban Center (Downstate)
+280459703400,282041,New Hyde Park,Village,,Smaller Urban Center (Downstate)
+280459703480,282229,North Hills,Village,,Smaller Urban Center (Downstate)
+280459704070,282239,Port Washington North,Village,,Smaller Urban Center (Downstate)
+280459704270,282241,Roslyn,Village,,Smaller Urban Center (Downstate)
+280459704280,282243,Roslyn Estates,Village,,Smaller Urban Center (Downstate)
+280459704290,282245,Roslyn Harbor,Village,,Smaller Urban Center (Downstate)
+280459704320,282247,Russell Gardens,Village,,Smaller Urban Center (Downstate)
+280459704870,282253,Thomaston,Village,,Smaller Urban Center (Downstate)
+280459705280,282255,Westbury,Village,,Smaller Urban Center (Downstate)
+280459705390,282257,Williston Park,Village,,Smaller Urban Center (Downstate)
+280463400380,282401,Bayville,Village,,Smaller Urban Center (Downstate)
+280463402620,282411,Lattingtown,Village,,Smaller Urban Center (Downstate)
+280463402970,282417,Massapequa Park,Village,,Smaller Urban Center (Downstate)
+280463403310,282429,Muttontown,Village,,Smaller Urban Center (Downstate)
+280463403610,282415,Old Brookville,Village,,Smaller Urban Center (Downstate)
+280463404520,282423,Sea Cliff,Village,,Smaller Urban Center (Downstate)
+280463404990,282427,Upper Brookville,Village,,Smaller Urban Center (Downstate)
+290100000000,290000,Niagara,County,Niagara,County
+290227000000,290900,Lockport,City,,Smaller Urban Center (Upstate)
+290235000000,291100,Niagara Falls,City,,Smaller Urban Center (Upstate)
+290236000000,291200,North Tonawanda,City,,Smaller Urban Center (Upstate)
+290311200000,292000,Cambria,Town,Niagara,Suburb
+290337900000,292200,Hartland,Town,Niagara,Rural
+290346400000,292400,Lewiston,Town,Niagara,Suburb
+290348100000,292600,Lockport,Town,Niagara,Suburb
+290357200000,292800,Newfane,Town,Niagara,Rural
+290358400000,293000,Niagara,Town,Niagara,Suburb
+290364800000,293200,Pendleton,Town,Niagara,Suburb
+290368100000,293400,Porter,Town,Niagara,Suburb
+290372800000,293600,Royalton,Town,Niagara,Rural
+290378600000,293800,Somerset,Town,Niagara,Rural
+290390300000,294000,Wheatfield,Town,Niagara,Suburb
+290391600000,294200,Wilson,Town,Niagara,Rural
+290446402680,292401,Lewiston,Village,,Suburb
+290468105490,293401,Youngstown,Village,,Suburb
+290472803080,292201,Middleport,Village,,Smaller Urban Center (Upstate)
+290491605400,294201,Wilson,Village,,Smaller Urban Center (Upstate)
+300100000000,300000,Oneida,County,Oneida,County
+300249000000,301300,Rome,City,,Smaller Urban Center (Upstate)
+300254000000,301400,Sherrill,City,,Suburb
+300258000000,301600,Utica,City,,Smaller Urban Center (Upstate)
+300303800000,302200,Augusta,Town,Oneida,Rural
+300308200000,302600,Boonville,Town,Oneida,Rural
+300309000000,302800,Bridgewater,Town,Oneida,Rural
+300311400000,303000,Camden,Town,Oneida,Rural
+300322300000,303200,Deerfield,Town,Oneida,Suburb
+300329000000,303400,Florence,Town,Oneida,Rural
+300329200000,303600,Floyd,Town,Oneida,Rural
+300329400000,303800,Forestport,Town,Oneida,Rural
+300344100000,304000,Kirkland,Town,Oneida,Rural
+300345500000,304200,Lee,Town,Oneida,Rural
+300351100000,304400,Marcy,Town,Oneida,Suburb
+300351500000,304600,Marshall,Town,Oneida,Rural
+300357400000,304800,New Hartford,Town,Oneida,Suburb
+300363900000,305000,Paris,Town,Oneida,Rural
+300370500000,305200,Remsen,Town,Oneida,Rural
+300374400000,305400,Sangerfield,Town,Oneida,Rural
+300380600000,305600,Steuben,Town,Oneida,Rural
+300383200000,305800,Trenton,Town,Oneida,Rural
+300385300000,306000,Vernon,Town,Oneida,Rural
+300385900000,306400,Vienna,Town,Oneida,Rural
+300389100000,306600,Western,Town,Oneida,Rural
+300389500000,306800,Westmoreland,Town,Oneida,Rural
+300390800000,307000,Whitestown,Town,Oneida,Rural
+300408200500,302601,Boonville,Village,,Smaller Urban Center (Upstate)
+300411400670,303001,Camden,Village,,Smaller Urban Center (Upstate)
+300457403390,304801,New Hartford,Village,,Smaller Urban Center (Upstate)
+300474405200,304601,Waterville,Village,,Smaller Urban Center (Upstate)
+300485305050,306003,Vernon,Village,,Smaller Urban Center (Upstate)
+300485904835,306401,Sylvan Beach,Village,,Rural
+300490803430,304803,New York Mills,Village,,Smaller Urban Center (Upstate)
+300490803660,307001,Oriskany,Village,,Smaller Urban Center (Upstate)
+300490805360,307003,Whitesboro,Village,,Smaller Urban Center (Upstate)
+300490805480,307005,Yorkville,Village,,Smaller Urban Center (Upstate)
+310100000000,310000,Onondaga,County,Onondaga,County
+310311600000,312000,Camillus,Town,Onondaga,Suburb
+310316100000,312200,Cicero,Town,Onondaga,Suburb
+310317000000,312400,Clay,Town,Onondaga,Suburb
+310323300000,312600,DeWitt,Town,Onondaga,Suburb
+310325900000,312800,Elbridge,Town,Onondaga,Rural
+310327900000,313000,Fabius,Town,Onondaga,Rural
+310331700000,313200,Geddes,Town,Onondaga,Suburb
+310349300000,313600,Lysander,Town,Onondaga,Suburb
+310350600000,313800,Manlius,Town,Onondaga,Suburb
+310351000000,314000,Marcellus,Town,Onondaga,Suburb
+310361100000,314200,Onondaga,Town,Onondaga,Suburb
+310362600000,314400,Otisco,Town,Onondaga,Rural
+310367900000,314600,Pompey,Town,Onondaga,Rural
+310373900000,314800,Salina,Town,Onondaga,Suburb
+310377800000,315000,Skaneateles,Town,Onondaga,Suburb
+310379300000,315200,Spafford,Town,Onondaga,Rural
+310383600000,315400,Tully,Town,Onondaga,Rural
+310384900000,315600,Van Buren,Town,Onondaga,Suburb
+310411600680,312001,Camillus,Village,,Smaller Urban Center (Upstate)
+310417003520,312201,North Syracuse,Village,,Smaller Urban Center (Upstate)
+310423301470,312601,East Syracuse,Village,,Smaller Urban Center (Upstate)
+310425901510,312801,Elbridge,Village,,Suburb
+310425902490,312803,Jordan,Village,,Smaller Urban Center (Upstate)
+310431704680,313201,Solvay,Village,,Smaller Urban Center (Upstate)
+310449300330,313601,Baldwinsville,Village,,Smaller Urban Center (Upstate)
+310450601670,313801,Fayetteville,Village,,Suburb
+310450602910,313803,Manlius,Village,,Suburb
+310450603160,313805,Minoa,Village,,Suburb
+310451002950,314001,Marcellus,Village,,Suburb
+310473902750,314801,Liverpool,Village,,Smaller Urban Center (Upstate)
+310477804630,315001,Skaneateles,Village,,Suburb
+320100000000,320000,Ontario,County,Ontario,County
+320208000000,320200,Canandaigua,City,,Smaller Urban Center (Upstate)
+320215000000,320500,Geneva,City,,Smaller Urban Center (Upstate)
+320309300000,322000,Bristol,Town,Ontario,Rural
+320311900000,322200,Canadice,Town,Ontario,Rural
+320312100000,322400,Canandaigua,Town,Ontario,Suburb
+320324600000,322600,East Bloomfield,Town,Ontario,Rural
+320328300000,322800,Farmington,Town,Ontario,Suburb
+320332100000,323000,Geneva,Town,Ontario,Suburb
+320333200000,323200,Gorham,Town,Ontario,Rural
+320340000000,323400,Hopewell,Town,Ontario,Rural
+320350400000,323600,Manchester,Town,Ontario,Rural
+320355900000,323800,Naples,Town,Ontario,Rural
+320365800000,324000,Phelps,Town,Ontario,Rural
+320371100000,324200,Richmond,Town,Ontario,Suburb
+320376400000,324400,Seneca,Town,Ontario,Rural
+320378800000,324600,South Bristol,Town,Ontario,Rural
+320385700000,324800,Victor,Town,Ontario,Suburb
+320388900000,325000,West Bloomfield,Town,Ontario,Rural
+320424600465,322605,Bloomfield,Village,,Suburb
+320450401030,323605,Clifton Springs,Village,,Smaller Urban Center (Upstate)
+320450402900,323601,Manchester,Village,,Suburb
+320450404580,323603,Shortsville,Village,,Smaller Urban Center (Upstate)
+320455903320,323801,Naples,Village,,Smaller Urban Center (Upstate)
+320465803870,324001,Phelps,Village,,Smaller Urban Center (Upstate)
+320485705060,324801,Victor,Village,,Suburb
+330100000000,330000,Orange,County,Orange,County
+330230000000,330900,Middletown,City,,Smaller Urban Center (Upstate)
+330232000000,331100,Newburgh,City,,Smaller Urban Center (Upstate)
+330245000000,331300,Port Jervis,City,,Smaller Urban Center (Upstate)
+330307800000,332000,Blooming Grove,Town,Orange,Suburb
+330315700000,332200,Chester,Town,Orange,Suburb
+330320200000,332400,Cornwall,Town,Orange,Suburb
+330320900000,332600,Crawford,Town,Orange,Suburb
+330322400000,332800,Deerpark,Town,Orange,Suburb
+330333300000,333000,Goshen,Town,Orange,Suburb
+330334800000,333200,Greenville,Town,Orange,Suburb
+330336700000,333400,Hamptonburgh,Town,Orange,Suburb
+330339200000,333600,Highlands,Town,Orange,Suburb
+330353900000,333800,Minisink,Town,Orange,Suburb
+330354200000,334000,Monroe,Town,Orange,Suburb
+330354500000,334200,Montgomery,Town,Orange,Suburb
+330355400000,334400,Mount Hope,Town,Orange,Suburb
+330356900000,334600,Newburgh,Town,Orange,Suburb
+330358300000,334800,New Windsor,Town,Orange,Suburb
+330384000000,335000,Tuxedo,Town,Orange,Suburb
+330386500000,335200,Wallkill,Town,Orange,Suburb
+330387300000,335400,Warwick,Town,Orange,Suburb
+330388100000,335600,Wawayanda,Town,Orange,Suburb
+330392300000,335800,Woodbury,Town,Orange,Suburb
+330407805170,332001,Washingtonville,Village,,Suburb
+330415700970,332201,Chester,Village,,Suburb
+330420201160,332401,Cornwall-On-Hudson,Village,,Suburb
+330433301950,333001,Goshen,Village,,Suburb
+330439202290,333601,Highland Falls,Village,,Suburb
+330454203180,334001,Monroe,Village,,Suburb
+330454503000,333401,Maybrook,Village,,Suburb
+330454503190,334203,Montgomery,Village,,Suburb
+330454505110,334205,Walden,Village,,Smaller Urban Center (Upstate)
+330487301720,335401,Florida,Village,,Suburb
+330487302070,335403,Greenwood Lake,Village,,Suburb
+330487305160,335405,Warwick,Village,,Suburb
+330492302160,334003,Harriman,Village,,Suburb
+340100000000,340000,Orleans,County,Orleans,County
+340300500000,342000,Albion,Town,Orleans,Rural
+340305200000,342200,Barre,Town,Orleans,Rural
+340312800000,342400,Carlton,Town,Orleans,Rural
+340316500000,342600,Clarendon,Town,Orleans,Rural
+340331000000,342800,Gaines,Town,Orleans,Rural
+340343500000,343000,Kendall,Town,Orleans,Rural
+340355700000,343200,Murray,Town,Orleans,Rural
+340371300000,343400,Ridgeway,Town,Orleans,Rural
+340377100000,343600,Shelby,Town,Orleans,Rural
+340392900000,343800,Yates,Town,Orleans,Rural
+340400500050,342001,Albion,Village,,Smaller Urban Center (Upstate)
+340455702350,343201,Holley,Village,,Smaller Urban Center (Upstate)
+340471303030,343401,Medina,Village,,Smaller Urban Center (Upstate)
+350100000000,350000,Oswego,County,Oswego,County
+350214000000,350400,Fulton,City,,Smaller Urban Center (Upstate)
+350242000000,351200,Oswego,City,,Smaller Urban Center (Upstate)
+350300600000,352000,Albion,Town,Oswego,Rural
+350301700000,352200,Amboy,Town,Oswego,Rural
+350319800000,352600,Constantia,Town,Oswego,Rural
+350333600000,352800,Granby,Town,Oswego,Rural
+350336900000,353000,Hannibal,Town,Oswego,Rural
+350338200000,353200,Hastings,Town,Oswego,Rural
+350352500000,353400,Mexico,Town,Oswego,Rural
+350353800000,353600,Minetto,Town,Oswego,Suburb
+350357500000,353800,New Haven,Town,Oswego,Rural
+350361900000,354000,Orwell,Town,Oswego,Rural
+350362400000,354200,Oswego,Town,Oswego,Rural
+350363600000,354400,Palermo,Town,Oswego,Rural
+350364000000,354600,Parish,Town,Oswego,Rural
+350371000000,355000,Richland,Town,Oswego,Rural
+350374200000,355200,Sandy Creek,Town,Oswego,Rural
+350375500000,355400,Schroeppel,Town,Oswego,Rural
+350376200000,355600,Scriba,Town,Oswego,Rural
+350386200000,355800,Volney,Town,Oswego,Rural
+350389400000,356000,West Monroe,Town,Oswego,Rural
+350391100000,356200,Williamstown,Town,Oswego,Rural
+350438200890,353201,Central Square,Village,,Suburb
+350452503060,353401,Mexico,Village,,Smaller Urban Center (Upstate)
+350471004110,355001,Pulaski,Village,,Smaller Urban Center (Upstate)
+350475503900,355401,Phoenix,Village,,Smaller Urban Center (Upstate)
+360100000000,360000,Otsego,County,Otsego,County
+360241000000,361200,Oneonta,City,,Smaller Urban Center (Upstate)
+360310200000,362000,Burlington,Town,Otsego,Rural
+360310600000,362200,Butternuts,Town,Otsego,Rural
+360315600000,362400,Cherry Valley,Town,Otsego,Rural
+360325600000,362800,Edmeston,Town,Otsego,Rural
+360338100000,363200,Hartwick,Town,Otsego,Rural
+360345100000,363400,Laurens,Town,Otsego,Rural
+360351700000,363600,Maryland,Town,Otsego,Rural
+360352800000,363800,Middlefield,Town,Otsego,Rural
+360353200000,364000,Milford,Town,Otsego,Rural
+360355200000,364200,Morris,Town,Otsego,Rural
+360357800000,364400,New Lisbon,Town,Otsego,Rural
+360361000000,364600,Oneonta,Town,Otsego,Rural
+360362500000,364800,Otego,Town,Otsego,Rural
+360362700000,365000,Otsego,Town,Otsego,Rural
+360366800000,365200,Pittsfield,Town,Otsego,Rural
+360370800000,365600,Richfield,Town,Otsego,Rural
+360379600000,366000,Springfield,Town,Otsego,Rural
+360384500000,366200,Unadilla,Town,Otsego,Rural
+360392600000,366600,Worcester,Town,Otsego,Rural
+360462503690,364801,Otego,Village,,Rural
+360462701120,363801,Cooperstown,Village,,Smaller Urban Center (Upstate)
+360484504960,366201,Unadilla,Village,,Smaller Urban Center (Upstate)
+370100000000,370000,Putnam,County,Putnam,County
+370312900000,372000,Carmel,Town,Putnam,Suburb
+370343600000,372200,Kent,Town,Putnam,Suburb
+370364300000,372400,Patterson,Town,Putnam,Suburb
+370366000000,372600,Philipstown,Town,Putnam,Suburb
+370369600000,372800,Putnam Valley,Town,Putnam,Suburb
+370378900000,373000,Southeast,Town,Putnam,Suburb
+370466001090,372601,Cold Spring,Village,,Suburb
+370478900510,373001,Brewster,Village,,Smaller Urban Center (Downstate)
+380100000000,380000,Rensselaer,County,Rensselaer,County
+380247000000,381400,Rensselaer,City,,Smaller Urban Center (Upstate)
+380257000000,381700,Troy,City,,Smaller Urban Center (Upstate)
+380306700000,382000,Berlin,Town,Rensselaer,Rural
+380309900000,382200,Brunswick,Town,Rensselaer,Suburb
+380324900000,382400,East Greenbush,Town,Rensselaer,Suburb
+380333500000,382600,Grafton,Town,Rensselaer,Rural
+380339800000,382800,Hoosick,Town,Rensselaer,Rural
+380356100000,383000,Nassau,Town,Rensselaer,Rural
+380359500000,383200,North Greenbush,Town,Rensselaer,Suburb
+380365600000,383400,Petersburgh,Town,Rensselaer,Rural
+380367000000,383600,Pittstown,Town,Rensselaer,Rural
+380367600000,383800,Poestenkill,Town,Rensselaer,Suburb
+380374100000,384000,Sand Lake,Town,Rensselaer,Suburb
+380375200000,384200,Schaghticoke,Town,Rensselaer,Rural
+380375300000,384400,Schodack,Town,Rensselaer,Suburb
+380380400000,384600,Stephentown,Town,Rensselaer,Rural
+380439802380,382801,Hoosick Falls,Village,,Smaller Urban Center (Upstate)
+380456103330,383001,Nassau,Village,,Smaller Urban Center (Upstate)
+380475300790,384401,Castleton-On-Hudson,Village,,Smaller Urban Center (Upstate)
+390100000000,390000,Rockland,County,Rockland,County
+390316700000,392000,Clarkstown,Town,Rockland,Major Urban Center
+390338300000,392200,Haverstraw,Town,Rockland,Suburb
+390361500000,392400,Orangetown,Town,Rockland,Smaller Urban Center (Downstate)
+390369800000,392600,Ramapo,Town,Rockland,Major Urban Center
+390381300000,392800,Stony Point,Town,Rockland,Suburb
+390416705000,392001,Upper Nyack,Village,,Suburb
+390438302190,392201,Haverstraw,Village,,Smaller Urban Center (Downstate)
+390438305320,392203,West Haverstraw,Village,,Smaller Urban Center (Downstate)
+390461503570,392005,Nyack,Village,,Smaller Urban Center (Downstate)
+390461503910,392405,Piermont,Village,,Smaller Urban Center (Downstate)
+390461504740,392407,South Nyack,Village,,Smaller Urban Center (Downstate)
+390469800035,392621,Airmont,Village,,Suburb
+390469800975,392615,Chestnut Ridge,Village,,Smaller Urban Center (Downstate)
+390469803185,392617,Montebello,Village,,Suburb
+390469803395,392613,New Hempstead,Village,,Suburb
+390469803995,392205,Pomona,Village,,Smaller Urban Center (Downstate)
+390469804650,392603,Sloatsburg,Village,,Suburb
+390469804780,392003,Spring Valley,Village,,Smaller Urban Center (Downstate)
+390469804830,392607,Suffern,Village,,Smaller Urban Center (Downstate)
+390469805275,392611,Wesley Hills,Village,,Suburb
+400100000000,400000,St. Lawrence,County,St Lawrence,County
+400238000000,401200,Ogdensburg,City,,Smaller Urban Center (Upstate)
+400308900000,402000,Brasher,Town,St Lawrence,Rural
+400312500000,402200,Canton,Town,St Lawrence,Rural
+400318800000,402800,Colton,Town,St Lawrence,Rural
+400322500000,403000,De Kalb,Town,St Lawrence,Rural
+400325700000,403400,Edwards,Town,St Lawrence,Rural
+400328700000,403600,Fine,Town,St Lawrence,Rural
+400329800000,403800,Fowler,Town,St Lawrence,Rural
+400333400000,404000,Gouverneur,Town,St Lawrence,Rural
+400336500000,404200,Hammond,Town,St Lawrence,Rural
+400339000000,404400,Hermon,Town,St Lawrence,Rural
+400340100000,404600,Hopkinton,Town,St Lawrence,Rural
+400345200000,404800,Lawrence,Town,St Lawrence,Rural
+400347200000,405000,Lisbon,Town,St Lawrence,Rural
+400348500000,405200,Louisville,Town,St Lawrence,Rural
+400349800000,405600,Madrid,Town,St Lawrence,Rural
+400351900000,405800,Massena,Town,St Lawrence,Rural
+400355300000,406000,Morristown,Town,St Lawrence,Rural
+400358800000,406200,Norfolk,Town,St Lawrence,Rural
+400362300000,406400,Oswegatchie,Town,St Lawrence,Rural
+400364100000,406600,Parishville,Town,St Lawrence,Rural
+400366200000,407000,Pierrepont,Town,St Lawrence,Rural
+400368400000,407400,Potsdam,Town,St Lawrence,Rural
+400373100000,407800,Russell,Town,St Lawrence,Rural
+400380900000,408000,Stockholm,Town,St Lawrence,Rural
+400386300000,408200,Waddington,Town,St Lawrence,Rural
+400433401960,404001,Gouverneur,Village,,Smaller Urban Center (Upstate)
+400451902980,405201,Massena,Village,,Smaller Urban Center (Upstate)
+400468403550,406201,Norwood,Village,,Smaller Urban Center (Upstate)
+400468404080,407403,Potsdam,Village,,Smaller Urban Center (Upstate)
+410100000000,410000,Saratoga,County,Saratoga,County
+410229000000,411000,Mechanicville,City,,Smaller Urban Center (Upstate)
+410252000000,411500,Saratoga Springs,City,,Suburb
+410304900000,412000,Ballston,Town,Saratoga,Suburb
+410314700000,412200,Charlton,Town,Saratoga,Suburb
+410317400000,412400,Clifton Park,Town,Saratoga,Suburb
+410320000000,412600,Corinth,Town,Saratoga,Rural
+410325500000,413000,Edinburg,Town,Saratoga,Rural
+410331400000,413200,Galway,Town,Saratoga,Rural
+410334400000,413400,Greenfield,Town,Saratoga,Rural
+410335700000,413600,Hadley,Town,Saratoga,Rural
+410336000000,413800,Halfmoon,Town,Saratoga,Suburb
+410350100000,414000,Malta,Town,Saratoga,Suburb
+410353400000,414200,Milton,Town,Saratoga,Rural
+410354900000,414400,Moreau,Town,Saratoga,Suburb
+410360100000,414600,Northumberland,Town,Saratoga,Rural
+410369300000,414800,Providence,Town,Saratoga,Rural
+410374700000,415000,Saratoga,Town,Saratoga,Rural
+410380700000,415200,Stillwater,Town,Saratoga,Rural
+410387500000,415400,Waterford,Town,Saratoga,Suburb
+410391700000,415600,Wilton,Town,Saratoga,Suburb
+410420001150,412601,Corinth,Village,,Smaller Urban Center (Upstate)
+410453400340,412001,Ballston Spa,Village,,Smaller Urban Center (Upstate)
+410454904730,414401,South Glens Falls,Village,,Smaller Urban Center (Upstate)
+410474704490,415001,Schuylerville,Village,,Smaller Urban Center (Upstate)
+410480704820,415201,Stillwater,Village,,Rural
+410487505180,415401,Waterford,Village,,Smaller Urban Center (Upstate)
+420100000000,420000,Schenectady,County,Schenectady,County
+420253000000,421500,Schenectady,City,,Smaller Urban Center (Upstate)
+420324200000,422000,Duanesburg,Town,Schenectady,Suburb
+420333100000,422200,Glenville,Town,Schenectady,Suburb
+420358700000,422400,Niskayuna,Town,Schenectady,Suburb
+420369200000,422600,Princetown,Town,Schenectady,Suburb
+420372600000,422800,Rotterdam,Town,Schenectady,Suburb
+420433104500,422201,Scotia,Village,,Smaller Urban Center (Upstate)
+430100000000,430000,Schoharie,County,Schoharie,County
+430312700000,432400,Carlisle,Town,Schoharie,Rural
+430317800000,432600,Cobleskill,Town,Schoharie,Rural
+430327500000,433000,Esperance,Town,Schoharie,Suburb
+430330900000,433200,Fulton,Town,Schoharie,Rural
+430332900000,433400,Gilboa,Town,Schoharie,Rural
+430342800000,433600,Jefferson,Town,Schoharie,Rural
+430352600000,433800,Middleburgh,Town,Schoharie,Rural
+430371200000,434000,Richmondville,Town,Schoharie,Rural
+430375400000,434200,Schoharie,Town,Schoharie,Rural
+430376700000,434400,Seward,Town,Schoharie,Rural
+430376900000,434600,Sharon,Town,Schoharie,Rural
+430381800000,434800,Summit,Town,Schoharie,Rural
+430392800000,435000,Wright,Town,Schoharie,Rural
+430417801060,432601,Cobleskill,Village,,Smaller Urban Center (Upstate)
+430452603070,433801,Middleburgh,Village,,Smaller Urban Center (Upstate)
+430475404480,434201,Schoharie,Village,,Smaller Urban Center (Upstate)
+440100000000,440000,Schuyler,County,Schuyler,County
+440313500000,442000,Catharine,Town,Schuyler,Rural
+440323700000,442400,Dix,Town,Schuyler,Rural
+440338500000,442600,Hector,Town,Schuyler,Rural
+440354600000,442800,Montour,Town,Schuyler,Rural
+440361400000,443000,Orange,Town,Schuyler,Rural
+440370100000,443200,Reading,Town,Schuyler,Rural
+440384200000,443400,Tyrone,Town,Schuyler,Rural
+440423705210,442401,Watkins Glen,Village,,Smaller Urban Center (Upstate)
+440454603210,442403,Montour Falls,Village,,Smaller Urban Center (Upstate)
+450100000000,450000,Seneca,County,Seneca,County
+450320600000,452000,Covert,Town,Seneca,Rural
+450328400000,452200,Fayette,Town,Seneca,Rural
+450343300000,452400,Junius,Town,Seneca,Rural
+450348200000,452600,Lodi,Town,Seneca,Rural
+450363000000,452800,Ovid,Town,Seneca,Rural
+450372000000,453000,Romulus,Town,Seneca,Rural
+450376500000,453200,Seneca Falls,Town,Seneca,Rural
+450385100000,453600,Varick,Town,Seneca,Rural
+450387600000,453800,Waterloo,Town,Seneca,Rural
+450476504530,,Seneca Falls,Village,,Smaller Urban Center (Upstate)
+450487605190,452201,Waterloo,Village,,Smaller Urban Center (Upstate)
+460100000000,460000,Steuben,County,Steuben,County
+460210000000,460300,Corning,City,,Smaller Urban Center (Upstate)
+460219000000,460600,Hornell,City,,Smaller Urban Center (Upstate)
+460300200000,462000,Addison,Town,Steuben,Rural
+460305600000,462400,Bath,Town,Steuben,Rural
+460311500000,462800,Cameron,Town,Steuben,Rural
+460311700000,463000,Campbell,Town,Steuben,Rural
+460312400000,463200,Canisteo,Town,Steuben,Rural
+460313800000,463400,Caton,Town,Steuben,Rural
+460318100000,463600,Cohocton,Town,Steuben,Rural
+460320100000,463800,Corning,Town,Steuben,Rural
+460321600000,464000,Dansville,Town,Steuben,Rural
+460327300000,464200,Erwin,Town,Steuben,Suburb
+460340300000,465000,Hornby,Town,Steuben,Rural
+460340400000,465200,Hornellsville,Town,Steuben,Rural
+460340700000,465400,Howard,Town,Steuben,Rural
+460342500000,465600,Jasper,Town,Steuben,Rural
+460347100000,465800,Lindley,Town,Steuben,Rural
+460368800000,466000,Prattsburgh,Town,Steuben,Rural
+460369400000,466200,Pulteney,Town,Steuben,Rural
+460370000000,466400,Rathbone,Town,Steuben,Rural
+460382600000,466600,Thurston,Town,Steuben,Rural
+460383400000,466800,Troupsburg,Town,Steuben,Rural
+460383800000,467000,Tuscarora,Town,Steuben,Rural
+460384800000,467200,Urbana,Town,Steuben,Rural
+460388200000,467400,Wayland,Town,Steuben,Rural
+460388300000,467600,Wayne,Town,Steuben,Rural
+460390500000,468000,Wheeler,Town,Steuben,Rural
+460392400000,468200,Woodhull,Town,Steuben,Rural
+460400200020,462001,Addison,Village,,Smaller Urban Center (Upstate)
+460404400290,462201,Avoca,Village,,Smaller Urban Center (Upstate)
+460405600360,462401,Bath,Village,,Smaller Urban Center (Upstate)
+460412400730,463201,Canisteo,Village,,Smaller Urban Center (Upstate)
+460420104700,463803,South Corning,Village,,Rural
+460427303750,464201,Painted Post,Village,,Smaller Urban Center (Upstate)
+460488205230,467401,Wayland,Village,,Smaller Urban Center (Upstate)
+470100000000,470000,Suffolk,County,Suffolk,County
+470304600000,472000,Babylon,Town,Suffolk,Major Urban Center
+470309600000,472200,Brookhaven,Town,Suffolk,Major Urban Center
+470341100000,472600,Huntington,Town,Suffolk,Major Urban Center
+470342100000,472800,Islip,Town,Suffolk,Major Urban Center
+470371600000,473000,Riverhead,Town,Suffolk,Suburb
+470377300000,473200,Shelter Island,Town,Suffolk,Suburb
+470378000000,473400,Smithtown,Town,Suffolk,Major Urban Center
+470378700000,473600,Southampton,Town,Suffolk,Major Urban Center
+470379000000,473800,Southold,Town,Suffolk,Suburb
+470404600150,472001,Amityville,Village,,Smaller Urban Center (Downstate)
+470404600310,472003,Babylon,Village,,Suburb
+470404602720,472005,Lindenhurst,Village,,Smaller Urban Center (Downstate)
+470409600410,472203,Bellport,Village,,Suburb
+470409602565,472217,Lake Grove,Village,,Suburb
+470409603800,472207,Patchogue,Village,,Smaller Urban Center (Downstate)
+470409604045,472213,Port Jefferson,Village,,Suburb
+470425001420,472401,East Hampton,Village,,Smaller Urban Center (Downstate)
+470441102420,472603,Huntington Bay,Village,,Smaller Urban Center (Downstate)
+470441102770,472605,Lloyd Harbor,Village,,Smaller Urban Center (Downstate)
+470441103510,472607,Northport,Village,,Smaller Urban Center (Downstate)
+470442100540,472801,Brightwaters,Village,,Suburb
+470442102465,472802,Islandia,Village,,Suburb
+470478003450,473403,Nissequogue,Village,,Smaller Urban Center (Downstate)
+470478005080,473405,Village of The Branch,Village,,Suburb
+470478704120,473603,Quogue,Village,,Smaller Urban Center (Downstate)
+470478704350,472403,Sag Harbor,Village,,Suburb
+470478704690,473605,Southampton,Village,,Smaller Urban Center (Downstate)
+470478705310,473607,Westhampton Beach,Village,,Suburb
+470479002050,473801,Greenport,Village,,Smaller Urban Center (Upstate)
+480100000000,480000,Sullivan,County,Sullivan,County
+480307000000,482000,Bethel,Town,Sullivan,Rural
+480311100000,482200,Callicoon,Town,Sullivan,Rural
+480317900000,482400,Cochecton,Town,Sullivan,Rural
+480322600000,482600,Delaware,Town,Sullivan,Rural
+480328100000,482800,Fallsburg,Town,Sullivan,Rural
+480330500000,483200,Fremont,Town,Sullivan,Rural
+480339100000,483400,Highland,Town,Sullivan,Rural
+480346700000,483600,Liberty,Town,Sullivan,Rural
+480348700000,483800,Lumberland,Town,Sullivan,Rural
+480350200000,484000,Mamakating,Town,Sullivan,Rural
+480356300000,484200,Neversink,Town,Sullivan,Rural
+480371800000,484400,Rockland,Town,Sullivan,Rural
+480382300000,484600,Thompson,Town,Sullivan,Rural
+480383900000,484800,Tusten,Town,Sullivan,Rural
+480446702690,483601,Liberty,Village,,Smaller Urban Center (Upstate)
+480450205460,484003,Wurtsboro,Village,,Suburb
+480482303200,484601,Monticello,Village,,Smaller Urban Center (Upstate)
+490100000000,490000,Tioga,County,Tioga,County
+490305400000,492000,Barton,Town,Tioga,Rural
+490306600000,492200,Berkshire,Town,Tioga,Rural
+490312200000,492400,Candor,Town,Tioga,Rural
+490356500000,492600,Newark Valley,Town,Tioga,Rural
+490358500000,492800,Nichols,Town,Tioga,Rural
+490363200000,493000,Owego,Town,Tioga,Rural
+490370900000,493200,Richford,Town,Tioga,Rural
+490379500000,493400,Spencer,Town,Tioga,Rural
+490382800000,493600,Tioga,Town,Tioga,Rural
+490405405220,492001,Waverly,Village,Tioga,Smaller Urban Center (Upstate)
+490456503370,492601,Newark Valley,Village,Tioga,Smaller Urban Center (Upstate)
+490463203720,493001,Owego,Village,Tioga,Smaller Urban Center (Upstate)
+500100000000,500000,Tompkins,County,Tompkins,County
+500221000000,500700,Ithaca,City,Tompkins,Smaller Urban Center (Upstate)
+500313100000,502000,Caroline,Town,Tompkins,Rural
+500321400000,502200,Danby,Town,Tompkins,Rural
+500324000000,502400,Dryden,Town,Tompkins,Rural
+500327000000,502600,Enfield,Town,Tompkins,Rural
+500335200000,502800,Groton,Town,Tompkins,Rural
+500342300000,503000,Ithaca,Town,Tompkins,Suburb
+500344900000,503200,Lansing,Town,Tompkins,Suburb
+500357300000,503400,Newfield,Town,Tompkins,Rural
+500384400000,503600,Ulysses,Town,Tompkins,Suburb
+500424001370,502401,Dryden,Village,Tompkins,Smaller Urban Center (Upstate)
+500435202080,502801,Groton,Village,Tompkins,Smaller Urban Center (Upstate)
+500442300850,503001,Cayuga Heights,Village,Tompkins,Suburb
+500444902605,503201,Lansing,Village,Tompkins,Smaller Urban Center (Downstate)
+500484404910,503601,Trumansburg,Village,Tompkins,Smaller Urban Center (Upstate)
+510100000000,510000,Ulster,County,Ulster,County
+510224000000,510800,Kingston,City,Ulster,Smaller Urban Center (Upstate)
+510327400000,512200,Esopus,Town,Ulster,Rural
+510331500000,512400,Gardiner,Town,Ulster,Suburb
+510341200000,512800,Hurley,Town,Ulster,Rural
+510347900000,513200,Lloyd,Town,Ulster,Suburb
+510350900000,513400,Marbletown,Town,Ulster,Rural
+510351400000,513600,Marlborough,Town,Ulster,Rural
+510357900000,513800,New Paltz,Town,Ulster,Suburb
+510360900000,514000,Olive,Town,Ulster,Suburb
+510367200000,514200,Plattekill,Town,Ulster,Rural
+510371700000,514400,Rochester,Town,Ulster,Rural
+510372400000,514600,Rosendale,Town,Ulster,Suburb
+510374900000,514800,Saugerties,Town,Ulster,Suburb
+510376800000,515000,Shandaken,Town,Ulster,Rural
+510377000000,515200,Shawangunk,Town,Ulster,Rural
+510384300000,515400,Ulster,Town,Ulster,Suburb
+510388000000,515600,Wawarsing,Town,Ulster,Rural
+510392500000,515800,Woodstock,Town,Ulster,Suburb
+510457903410,513801,New Paltz,Village,Ulster,Smaller Urban Center (Upstate)
+510474904420,514801,Saugerties,Village,Ulster,Smaller Urban Center (Upstate)
+510488001530,515601,Ellenville,Village,Ulster,Smaller Urban Center (Upstate)
+520100000000,520000,Warren,County,Warren,County
+520217000000,520500,Glens Falls,City,Warren,Smaller Urban Center (Upstate)
+520308000000,522000,Bolton,Town,Warren,Rural
+520315800000,522400,Chester,Town,Warren,Rural
+520340200000,522800,Horicon,Town,Warren,Rural
+520343100000,523000,Johnsburg,Town,Warren,Rural
+520344630000,522200,Lake George,Town,Warren,Suburb
+520344660000,523200,Lake Luzerne,Town,Warren,Rural
+520369700000,523400,Queensbury,Town,Warren,Suburb
+520382500000,523800,Thurman,Town,Warren,Rural
+520387100000,524000,Warrensburg,Town,Warren,Rural
+530100000000,530000,Washington,County,Washington,County
+530303000000,532000,Argyle,Town,Washington,Rural
+530311300000,532200,Cambridge,Town,Washington,Rural
+530325100000,532600,Easton,Town,Washington,Rural
+530329500000,532800,Fort Ann,Town,Washington,Rural
+530329700000,533000,Fort Edward,Town,Washington,Rural
+530333900000,533200,Granville,Town,Washington,Rural
+530334900000,533400,Greenwich,Town,Washington,Rural
+530337800000,533800,Hartford,Town,Washington,Rural
+530338400000,534000,Hebron,Town,Washington,Rural
+530342400000,534200,Jackson,Town,Washington,Rural
+530343900000,534400,Kingsbury,Town,Washington,Rural
+530373800000,534800,Salem,Town,Washington,Rural
+530390600000,535000,White Creek,Town,Washington,Rural
+530390700000,535200,Whitehall,Town,Washington,Rural
+530429701780,533001,Fort Edward,Village,Washington,Smaller Urban Center (Upstate)
+530433901990,533201,Granville,Village,Washington,Smaller Urban Center (Upstate)
+530434902060,532601,Greenwich,Village,Washington,Smaller Urban Center (Upstate)
+530443902400,534401,Hudson Falls,Village,Washington,Smaller Urban Center (Upstate)
+530490600660,532201,Cambridge,Village,Washington,Smaller Urban Center (Upstate)
+530490705350,535201,Whitehall,Village,Washington,Smaller Urban Center (Upstate)
+540100000000,540000,Wayne,County,Wayne,County
+540302900000,542000,Arcadia,Town,Wayne,Rural
+540310500000,542200,Butler,Town,Wayne,Rural
+540331200000,542400,Galen,Town,Wayne,Rural
+540341300000,542600,Huron,Town,Wayne,Rural
+540349100000,542800,Lyons,Town,Wayne,Rural
+540349400000,543000,Macedon,Town,Wayne,Suburb
+540351300000,543200,Marion,Town,Wayne,Rural
+540361200000,543400,Ontario,Town,Wayne,Suburb
+540363700000,543600,Palmyra,Town,Wayne,Rural
+540372200000,543800,Rose,Town,Wayne,Rural
+540375000000,544000,Savannah,Town,Wayne,Rural
+540378300000,544200,Sodus,Town,Wayne,Rural
+540386700000,544400,Walworth,Town,Wayne,Suburb
+540391000000,544600,Williamson,Town,Wayne,Suburb
+540392200000,544800,Wolcott,Town,Wayne,Rural
+540402903360,542001,Newark,Village,Wayne,Smaller Urban Center (Upstate)
+540431201050,542401,Clyde,Village,Wayne,Smaller Urban Center (Upstate)
+540449102820,542801,Lyons,Village,Wayne,Smaller Urban Center (Upstate)
+540449402850,543001,Macedon,Village,Wayne,Suburb
+540463703770,543601,Palmyra,Village,Wayne,Smaller Urban Center (Upstate)
+540478304670,544201,Sodus,Village,Wayne,Smaller Urban Center (Upstate)
+540478304675,544203,Sodus Point,Village,Wayne,Smaller Urban Center (Upstate)
+540492205420,542201,Wolcott,Village,Wayne,Smaller Urban Center (Upstate)
+550100000000,550000,Westchester,County,Westchester,County
+550231000000,550800,Mount Vernon,City,Westchester,Smaller Urban Center (Downstate)
+550233000000,551000,New Rochelle,City,Westchester,Smaller Urban Center (Downstate)
+550243000000,551200,Peekskill,City,Westchester,Smaller Urban Center (Downstate)
+550250000000,551400,Rye,City,Westchester,Smaller Urban Center (Downstate)
+550261000000,551700,White Plains,City,Westchester,Major Urban Center
+550262000000,551800,Yonkers,City,Westchester,Major Urban Center
+550305700000,552000,Bedford,Town,Westchester,Smaller Urban Center (Downstate)
+550320300000,552200,Cortlandt,Town,Westchester,Suburb
+550324700000,552400,Eastchester,Town,Westchester,Smaller Urban Center (Downstate)
+550334200000,552600,Greenburgh,Town,Westchester,Smaller Urban Center (Downstate)
+550337700000,552800,Harrison,Town,Westchester,Smaller Urban Center (Downstate)
+550346300000,553000,Lewisboro,Town,Westchester,Smaller Urban Center (Downstate)
+550350300000,553200,Mamaroneck,Town,Westchester,Smaller Urban Center (Downstate)
+550355600000,553400,Mount Pleasant,Town,Westchester,Smaller Urban Center (Downstate)
+550357000000,553600,New Castle,Town,Westchester,Smaller Urban Center (Downstate)
+550359000000,553800,North Castle,Town,Westchester,Smaller Urban Center (Downstate)
+550360000000,554000,North Salem,Town,Westchester,Suburb
+550362200000,554200,Ossining,Town,Westchester,Smaller Urban Center (Downstate)
+550364600000,554400,Pelham,Town,Westchester,Smaller Urban Center (Downstate)
+550368700000,554600,Pound Ridge,Town,Westchester,Smaller Urban Center (Downstate)
+550373400000,554800,Rye,Town,Westchester,Smaller Urban Center (Downstate)
+550378500000,555200,Somers,Town,Westchester,Suburb
+550393200000,555400,Yorktown,Town,Westchester,Suburb
+550420300620,552201,Buchanan,Village,Westchester,Suburb
+550420301200,552203,Croton-On-Hudson,Village,Westchester,Smaller Urban Center (Downstate)
+550424704920,552403,Tuckahoe,Village,Westchester,Smaller Urban Center (Downstate)
+550434200220,552601,Ardsley,Village,Westchester,Smaller Urban Center (Downstate)
+550434201330,552603,Dobbs Ferry,Village,Westchester,Smaller Urban Center (Downstate)
+550434201570,552605,Elmsford,Village,Westchester,Smaller Urban Center (Downstate)
+550434202180,552607,Hastings-On-Hudson,Village,Westchester,Smaller Urban Center (Downstate)
+550434202450,552609,Irvington,Village,Westchester,Smaller Urban Center (Downstate)
+550434204850,552611,Tarrytown,Village,Westchester,Smaller Urban Center (Downstate)
+550437702165,552801,Harrison,Village,Westchester,Smaller Urban Center (Downstate)
+550450302610,553201,Larchmont,Village,Westchester,Smaller Urban Center (Downstate)
+550450302890,553203,Mamaroneck,Village,Westchester,Smaller Urban Center (Downstate)
+550455453270,555601,Mount Kisco,Village,Westchester,Smaller Urban Center (Downstate)
+550455603980,553403,Pleasantville,Village,Westchester,Smaller Urban Center (Downstate)
+550455604635,553401,Sleepy Hollow,Village,Westchester,Smaller Urban Center (Downstate)
+550462200520,553405,Briarcliff Manor,Village,Westchester,Smaller Urban Center (Downstate)
+550462203680,554203,Ossining,Village,Westchester,Smaller Urban Center (Downstate)
+550464603820,554403,Pelham,Village,Westchester,Smaller Urban Center (Downstate)
+550464603830,554405,Pelham Manor,Village,Westchester,Smaller Urban Center (Downstate)
+550473404020,554801,Port Chester,Village,Westchester,Smaller Urban Center (Downstate)
+550473404325,554805,Rye Brook,Village,Westchester,Smaller Urban Center (Downstate)
+560100000000,560000,Wyoming,County,Wyoming,County
+560302800000,562000,Arcade,Town,Wyoming,Rural
+560303700000,562200,Attica,Town,Wyoming,Rural
+560306200000,562400,Bennington,Town,Wyoming,Rural
+560313400000,562600,Castile,Town,Wyoming,Rural
+560320700000,562800,Covington,Town,Wyoming,Rural
+560324500000,563000,Eagle,Town,Wyoming,Rural
+560331100000,563200,Gainesville,Town,Wyoming,Rural
+560342600000,563600,Java,Town,Wyoming,Rural
+560352700000,563800,Middlebury,Town,Wyoming,Rural
+560361600000,564000,Orangeville,Town,Wyoming,Rural
+560365100000,564200,Perry,Town,Wyoming,Rural
+560366300000,564400,Pike,Town,Wyoming,Rural
+560377200000,564600,Sheldon,Town,Wyoming,Rural
+560387200000,564800,Warsaw,Town,Wyoming,Rural
+560402800210,562001,Arcade,Village,Wyoming,Smaller Urban Center (Upstate)
+560403700270,182203,Attica,Village,Wyoming,Smaller Urban Center (Upstate)
+560413400780,562601,Castile,Village,Wyoming,Smaller Urban Center (Upstate)
+560465103850,562603,Perry,Village,Wyoming,Smaller Urban Center (Upstate)
+560487205150,564801,Warsaw,Village,Wyoming,Smaller Urban Center (Upstate)
+570100000000,570000,Yates,County,Yates,County
+570305300000,572000,Barrington,Town,Yates,Rural
+570306400000,572200,Benton,Town,Yates,Rural
+570342200000,572400,Italy,Town,Yates,Rural
+570342900000,572600,Jerusalem,Town,Yates,Rural
+570352900000,572800,Middlesex,Town,Yates,Rural
+570353300000,573000,Milo,Town,Yates,Rural
+570368500000,573200,Potter,Town,Yates,Rural
+570380300000,573400,Starkey,Town,Yates,Rural
+570383100000,573600,Torrey,Town,Yates,Rural
+570453303840,572201,Penn Yan,Village,Yates,Smaller Urban Center (Upstate)
+570480301380,573401,Dundee,Village,Yates,Smaller Urban Center (Upstate)
+600100000000,650000,New York City,County,New York City,County
